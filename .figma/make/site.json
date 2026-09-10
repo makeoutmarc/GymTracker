@@ -1,0 +1,10 @@
+{
+  "description": "Track your gym progress effortlessly with a user-friendly interface that integrates with iOS Health, allowing personalized training plans and live updates.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
